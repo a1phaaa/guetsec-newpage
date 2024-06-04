@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://c1everf0x.top'
-superuser: true
+superuser: false
 ---
 
 web、pwn、macos

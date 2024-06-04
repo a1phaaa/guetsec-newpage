@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://sf2333.github.io/'
-superuser: true
+superuser: false
 ---
 
 re、pwn

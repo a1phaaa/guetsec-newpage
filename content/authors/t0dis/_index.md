@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://todis21.github.io/'
-superuser: true
+superuser: false
 ---
 
 web、渗透、java安全

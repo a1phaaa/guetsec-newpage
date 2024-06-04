@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://doog.pro/'
-superuser: true
+superuser: false
 ---
 
 web、挖洞

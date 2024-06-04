@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://xinza1.github.io/'
-superuser: true
+superuser: false
 ---
 
 web、渗透

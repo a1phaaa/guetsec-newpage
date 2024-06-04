@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://54huarui.github.io/'
-superuser: true
+superuser: false
 ---
 
 web、mobile、Misc

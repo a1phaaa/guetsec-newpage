@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://www.cnblogs.com/lktop/'
-superuser: true
+superuser: false
 ---
 
 GameFi大庄家

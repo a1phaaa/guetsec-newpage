@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://foubean.github.io/'
-superuser: true
+superuser: false
 ---
 
 Development

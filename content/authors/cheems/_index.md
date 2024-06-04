@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://vcdogjt.github.io/'
-superuser: true
+superuser: false
 ---
 
 web、misc

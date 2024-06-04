@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://caddyetui.top/'
-superuser: true
+superuser: false
 ---
 
 pwn

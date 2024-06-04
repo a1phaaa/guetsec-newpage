@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://blog.csdn.net/2301_79326813?type=blog'
-superuser: true
+superuser: false
 ---
 
 pwn

@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://n0puple.github.io/'
-superuser: true
+superuser: false
 ---
 
 渗透测试工程师

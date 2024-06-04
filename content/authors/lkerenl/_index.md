@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://lkerenl.github.io/'
-superuser: true
+superuser: false
 ---
 
 华为工程师

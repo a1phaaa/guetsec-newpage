@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://s1vona.github.io/'
-superuser: true
+superuser: false
 ---
 
 二进制、奇安信

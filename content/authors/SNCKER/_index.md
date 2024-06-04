@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://sncker.github.io/blog/'
-superuser: true
+superuser: false
 ---
 
 协会扫地的学长

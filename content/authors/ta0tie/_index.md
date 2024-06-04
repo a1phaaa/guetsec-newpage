@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://www.cnblogs.com/ta0tie'
-superuser: true
+superuser: false
 ---
 
 crypto、blockchain

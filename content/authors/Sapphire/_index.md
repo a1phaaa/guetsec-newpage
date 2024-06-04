@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://sapphire037.github.io/'
-superuser: true
+superuser: false
 ---
 
 web、misc、渗透

@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://blog.csdn.net/qq_61237064'
-superuser: true
+superuser: false
 ---
 
 web、渗透

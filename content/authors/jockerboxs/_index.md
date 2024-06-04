@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://jokerboxs.github.io/'
-superuser: true
+superuser: false
 ---
 
 二进制

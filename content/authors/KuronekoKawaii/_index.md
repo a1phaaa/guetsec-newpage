@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://blog.kuroneko.cn/'
-superuser: true
+superuser: false
 ---
 
 web、kotlin、Android

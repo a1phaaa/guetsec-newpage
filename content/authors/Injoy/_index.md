@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://www.cnblogs.com/lnjoy/'
-superuser: true
+superuser: false
 ---
 
 Master Li

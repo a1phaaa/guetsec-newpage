@@ -7,7 +7,6 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://blog.a1pha.cn'
-superuser: true
+superuser: false
 ---
-
 web、DevOps

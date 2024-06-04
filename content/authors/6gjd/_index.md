@@ -7,7 +7,6 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://bdsmjj.github.io/'
-superuser: true
+superuser: false
 ---
-
 web、渗透

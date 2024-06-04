@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://eif07.github.io/'
-superuser: true
+superuser: false
 ---
 
 web、DevOps

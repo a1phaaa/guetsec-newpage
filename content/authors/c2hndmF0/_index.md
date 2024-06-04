@@ -7,7 +7,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: 'https://www.cnblogs.com/Crayon-Blog'
-superuser: true
+superuser: false
 ---
 
 web
